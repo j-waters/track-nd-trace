@@ -1,0 +1,11 @@
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps: 
+    - uses: actions/checkout@v2
+    - uses: tibor19/static-website-deploy@v1
+      with:
+        enabled-static-website: 'true'
+        folder: 'client'
+        connection-string: ${{ secrets.STORAGE_CONNECTION_STRING }}
