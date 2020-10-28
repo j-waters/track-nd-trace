@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34ae9888-e456-44df-9386-d360b00d7b38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html/controls.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html/filterable-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html/infected-modal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html/user-create-modal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html/user-section.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html/venue-create-modal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html/venue-section.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/html/visit-modal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/js/functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/js/html-framework.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/js/models/infectedUser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/js/models/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/js/models/venue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/js/models/visit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/js/states.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/js/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/js/venues.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/user/CreateUserModal.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/user/User.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/user/UserList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/user/UserSection.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/venue/VenueSection.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/About.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/js/functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/js/functions.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,12 +93,40 @@
       <workItem from="1603229840460" duration="18214000" />
       <workItem from="1603374827882" duration="17474000" />
       <workItem from="1603463839457" duration="5620000" />
-      <workItem from="1603471071126" duration="9788000" />
+      <workItem from="1603471071126" duration="11083000" />
     </task>
+    <task id="LOCAL-00001" summary="Complete application">
+      <created>1603899403164</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603899403164</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Delete Vue project">
+      <created>1603899473478</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603899473478</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add IDE settings">
+      <created>1603899500105</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603899500105</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Complete application" />
+    <MESSAGE value="Delete Vue project" />
+    <MESSAGE value="Add IDE settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add IDE settings" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="68" key="#HTML" timestamp="1603230943418">
@@ -142,10 +137,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="720" y="201" key="#JSON/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603230471356" />
-    <state x="404" y="78" key="CommitChangelistDialog2" timestamp="1603230128627">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="808" y="78" key="CommitChangelistDialog2" timestamp="1603899499617">
+      <screen x="0" y="0" width="3840" height="1080" />
     </state>
     <state x="404" y="78" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603230128627" />
+    <state x="808" y="78" key="CommitChangelistDialog2/0.0.3840.1080@0.0.3840.1080" timestamp="1603899499617" />
     <state x="964" y="569" width="936" height="491" key="DiffContextDialog" timestamp="1603835723157">
       <screen x="0" y="0" width="3840" height="1080" />
     </state>
@@ -170,6 +166,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="450" y="211" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603280302051" />
+    <state x="961" y="397" key="Vcs.Push.Dialog.v2" timestamp="1603899584448">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="961" y="397" key="Vcs.Push.Dialog.v2/0.0.3840.1080@0.0.3840.1080" timestamp="1603899584448" />
     <state x="964" y="63" width="936" height="997" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1603835723158">
       <screen x="0" y="0" width="3840" height="1080" />
     </state>
