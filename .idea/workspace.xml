@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34ae9888-e456-44df-9386-d360b00d7b38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +28,7 @@
   </component>
   <component name="ProjectId" id="1j9wtrzr6Qj7j3UyiBrrtOMZOT7" />
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -101,7 +98,7 @@
       <workItem from="1603229840460" duration="18214000" />
       <workItem from="1603374827882" duration="17474000" />
       <workItem from="1603463839457" duration="5620000" />
-      <workItem from="1603471071126" duration="12019000" />
+      <workItem from="1603471071126" duration="12252000" />
     </task>
     <task id="LOCAL-00001" summary="Complete application">
       <created>1603899403164</created>
@@ -138,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603900733850</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add favicon">
+      <created>1603901548965</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603901548965</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +156,8 @@
     <MESSAGE value="Add IDE settings" />
     <MESSAGE value="Use production functions endpoint" />
     <MESSAGE value="Fix functions config" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix functions config" />
+    <MESSAGE value="Add favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add favicon" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="68" key="#HTML" timestamp="1603230943418">
@@ -163,19 +168,19 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="720" y="201" key="#JSON/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603230471356" />
-    <state x="526" y="102" key="CommitChangelistDialog2" timestamp="1603900733652">
+    <state x="526" y="102" key="CommitChangelistDialog2" timestamp="1603901548795">
       <screen x="0" y="0" width="3840" height="1080" />
     </state>
     <state x="404" y="78" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603230128627" />
-    <state x="526" y="102" key="CommitChangelistDialog2/0.0.3840.1080@0.0.3840.1080" timestamp="1603900733652" />
+    <state x="526" y="102" key="CommitChangelistDialog2/0.0.3840.1080@0.0.3840.1080" timestamp="1603901548795" />
     <state x="964" y="569" width="936" height="491" key="DiffContextDialog" timestamp="1603835723157">
       <screen x="0" y="0" width="3840" height="1080" />
     </state>
     <state x="964" y="569" width="936" height="491" key="DiffContextDialog/0.0.3840.1080@0.0.3840.1080" timestamp="1603835723157" />
-    <state x="796" y="500" key="Github.Dialog.Accounts.Choose" timestamp="1603900774215">
+    <state x="796" y="500" key="Github.Dialog.Accounts.Choose" timestamp="1603901583556">
       <screen x="0" y="0" width="3840" height="1080" />
     </state>
-    <state x="796" y="500" key="Github.Dialog.Accounts.Choose/0.0.3840.1080@0.0.3840.1080" timestamp="1603900774215" />
+    <state x="796" y="500" key="Github.Dialog.Accounts.Choose/0.0.3840.1080@0.0.3840.1080" timestamp="1603901583556" />
     <state width="1846" height="261" key="GridCell.Tab.0.bottom" timestamp="1603370772939">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -196,17 +201,17 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="450" y="211" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603280302051" />
-    <state x="961" y="397" key="Vcs.Push.Dialog.v2" timestamp="1603900947387">
+    <state x="961" y="397" key="Vcs.Push.Dialog.v2" timestamp="1603901550149">
       <screen x="0" y="0" width="3840" height="1080" />
     </state>
-    <state x="961" y="397" key="Vcs.Push.Dialog.v2/0.0.3840.1080@0.0.3840.1080" timestamp="1603900947387" />
+    <state x="961" y="397" key="Vcs.Push.Dialog.v2/0.0.3840.1080@0.0.3840.1080" timestamp="1603901550149" />
     <state x="964" y="63" width="936" height="997" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1603835723158">
       <screen x="0" y="0" width="3840" height="1080" />
     </state>
     <state x="964" y="63" width="936" height="997" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.3840.1080@0.0.3840.1080" timestamp="1603835723158" />
-    <state x="739" y="489" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603900932080">
+    <state x="739" y="489" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603901559158">
       <screen x="0" y="0" width="3840" height="1080" />
     </state>
-    <state x="739" y="489" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3840.1080@0.0.3840.1080" timestamp="1603900932080" />
+    <state x="739" y="489" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3840.1080@0.0.3840.1080" timestamp="1603901559158" />
   </component>
 </project>
