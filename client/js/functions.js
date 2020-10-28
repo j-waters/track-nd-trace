@@ -1,4 +1,4 @@
-const URL = "http://localhost:7071/api"; //"https://trackndtrace.azurewebsites.net/api";
+const URL = "https://trackndtrace.azurewebsites.net/api"; // "http://localhost:7071/api"
 const KEY = "wmXtNeIiPpFCnTb9aFRp60XdP1b9GtTbd1jju7r3Hg5oajJ1I5SmkA==";
 
 /*
