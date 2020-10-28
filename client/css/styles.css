@@ -1,0 +1,52 @@
+#app {
+	height: 90vh;
+	margin: 5vh auto;
+}
+
+html {
+	overflow: auto;
+}
+
+.columns {
+	height: 90%;
+}
+
+#controls {
+	height: 10%;
+}
+
+.tt-section.box {
+	height: 100%;
+	display: flex;
+	flex-flow: column;
+}
+
+.tt-list-container {
+	flex: 1 1 auto;
+	min-height: 0;
+}
+
+.tt-list {
+	overflow-y: auto;
+	padding-right: 5px;
+}
+
+.tt-filterable-list {
+	height: 100%;
+	display: flex;
+	flex-flow: column;
+}
+
+#checkin-controls {
+	display: flex;
+	flex-flow: row;
+	justify-content: space-between;
+}
+
+#checkin-date {
+	width: unset;
+}
+
+.selected-venue .title {
+	color: hsl(204, 86%, 53%)
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<div id="venueCreateModal" class="modal">
+    <div class="modal-background" onclick="closeModal('venueCreateModal')"></div>
+    <div class="modal-content">
+        <div class="box">
+            <h1 class="title is-1">Add venue</h1>
+            <div class="block control">
+                <input
+                        class="input"
+                        type="text"
+                        placeholder="Name"
+                        id="new-venue-name"
+                />
+            </div>
+            <div class="buttons">
+                <button class="button is-danger" onclick="closeModal('venueCreateModal')">
+                    Cancel
+                </button>
+                <button class="button is-success" onclick="saveVenue()">
+                    Add
+                </button>
+            </div>
+        </div>
+    </div>
+    <button
+            class="modal-close is-large"
+            aria-label="close"
+            onclick="closeModal('venueCreateModal')"
+    ></button>
+</div>
+
+<style>
+    .buttons {
+        display: flex;
+    }
+    .buttons > button {
+        flex: 1;
+    }
+</style>
+</html>

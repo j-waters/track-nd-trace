@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<div id="initial-controls" class="control-state">
+    <button class="button is-fullwidth" onclick="showInfected()">Show users who need to self-isolate</button>
+</div>
+
+<div id="checkin-controls" class="control-state is-hidden">
+    <button class="button is-danger" onclick="setInitialState()">Cancel</button>
+    <span id="checkin-count">0 users selected</span>
+    <input id="checkin-date" class="input" type="date"/>
+    <button class="button is-success" onclick="completeCheckin()">Check selected users in</button>
+</div>
+</html>

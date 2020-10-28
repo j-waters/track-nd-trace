@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<div id="userCreateModal" class="modal">
+    <div class="modal-background" onclick="closeModal('userCreateModal')"></div>
+    <div class="modal-content">
+        <div class="box">
+            <h1 class="title is-1">Add user</h1>
+            <div class="block control">
+                <input
+                        class="input"
+                        type="text"
+                        placeholder="Name"
+                        id="new-user-name"
+                />
+            </div>
+            <div class="buttons">
+                <button class="button is-danger" onclick="closeModal('userCreateModal')">
+                    Cancel
+                </button>
+                <button class="button is-success" onclick="saveUser()">
+                    Add
+                </button>
+            </div>
+        </div>
+    </div>
+    <button
+            class="modal-close is-large"
+            aria-label="close"
+            onclick="closeModal('userCreateModal')"
+    ></button>
+</div>
+
+<style>
+    .buttons {
+        display: flex;
+    }
+    .buttons > button {
+        flex: 1;
+    }
+</style>
+</html>

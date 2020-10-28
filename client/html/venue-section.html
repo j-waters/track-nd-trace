@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<div id="venueSection" class="box tt-section">
+    <h1 class="title block" style="text-align: center">Venues</h1>
+    <button class="button is-fullwidth block" onclick="openModal('venueCreateModal')">
+            <span class="icon is-small">
+                <i class="fas fa-plus"></i>
+            </span>
+    </button>
+
+    <rep name="venue-create-modal"></rep>
+
+    <div id="listContainer" class="block tt-list-container">
+        <rep name="filterable-list" type="venues"></rep>
+    </div>
+</div>
+</html>
