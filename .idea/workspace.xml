@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34ae9888-e456-44df-9386-d360b00d7b38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html/controls.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html/filterable-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html/infected-modal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html/user-create-modal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html/user-section.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html/venue-create-modal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html/venue-section.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/html/visit-modal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/js/html-framework.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/js/models/infectedUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/js/models/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/js/models/venue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/js/models/visit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/js/states.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/js/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/js/venues.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/user/CreateUserModal.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/user/User.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/user/UserList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/user/UserSection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/venue/VenueSection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j9wtrzr6Qj7j3UyiBrrtOMZOT7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettier.files.pattern" value="{**/*,*}.{js,ts,jsx,tsx,vue}" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/venue" />
+      <recent name="$PROJECT_DIR$/src/components/user" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/html" />
+      <recent name="$PROJECT_DIR$/client/js" />
+      <recent name="$PROJECT_DIR$/client/js/models" />
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34ae9888-e456-44df-9386-d360b00d7b38" name="Default Changelist" comment="" />
+      <created>1603229832435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603229832435</updated>
+      <workItem from="1603229840460" duration="18214000" />
+      <workItem from="1603374827882" duration="17474000" />
+      <workItem from="1603463839457" duration="5620000" />
+      <workItem from="1603471071126" duration="9788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="68" key="#HTML" timestamp="1603230943418">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="68" key="#HTML/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603230943418" />
+    <state x="720" y="201" key="#JSON" timestamp="1603230471356">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="720" y="201" key="#JSON/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603230471356" />
+    <state x="404" y="78" key="CommitChangelistDialog2" timestamp="1603230128627">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="404" y="78" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603230128627" />
+    <state x="964" y="569" width="936" height="491" key="DiffContextDialog" timestamp="1603835723157">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="964" y="569" width="936" height="491" key="DiffContextDialog/0.0.3840.1080@0.0.3840.1080" timestamp="1603835723157" />
+    <state width="1846" height="261" key="GridCell.Tab.0.bottom" timestamp="1603370772939">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1846" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603370772939" />
+    <state width="1846" height="261" key="GridCell.Tab.0.center" timestamp="1603370772938">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1846" height="261" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603370772938" />
+    <state width="1846" height="261" key="GridCell.Tab.0.left" timestamp="1603370772938">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1846" height="261" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603370772938" />
+    <state width="1846" height="261" key="GridCell.Tab.0.right" timestamp="1603370772938">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1846" height="261" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603370772938" />
+    <state x="450" y="211" key="SettingsEditor" timestamp="1603280302051">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="450" y="211" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603280302051" />
+    <state x="964" y="63" width="936" height="997" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1603835723158">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="964" y="63" width="936" height="997" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.3840.1080@0.0.3840.1080" timestamp="1603835723158" />
+  </component>
+</project>
