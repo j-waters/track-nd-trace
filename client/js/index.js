@@ -5,6 +5,11 @@ import { getFunc } from "./functions.js";
 import InfectedUser from "./models/infectedUser.js";
 
 /*
+This is the root JavaScript file. It sets up some global functions, and imports
+the scripts that set up the user and venue columns
+ */
+
+/*
 Opens a modal
  */
 window.openModal = function(id) {

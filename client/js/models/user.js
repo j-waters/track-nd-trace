@@ -46,12 +46,19 @@ export class User {
         this.data = data;
         this.showCheckbox = false;
         this.selected = false;
+
         document.addEventListener("start-checkin", () => {
+            /*
+            When we enter check-in mode, show the checkbox
+             */
             this.showCheckbox = true;
             this.selected = false;
             this.updateElement();
         });
         document.addEventListener("stop-checkin", () => {
+            /*
+            When we leave check-in mode, hide the checkbox
+             */
             this.showCheckbox = false;
             this.selected = false;
             this.updateElement();
@@ -86,6 +93,8 @@ export class User {
         if (!this.testedPositiveAt) {
             html = html.replace("$TEST-BUTTON", TEST_BUTTON_TEMPLATE);
         } else {
+            // If the user tested positive, show a disabled button with the date
+            // on which they tested positive
             html = html.replace(
                 "$TEST-BUTTON",
                 POSTIVE_BUTTON_TEMPLATE.replace(
@@ -129,7 +138,7 @@ export class User {
     }
 
     /*
-    Fetch the checkins associated with the user and display them in a modal
+    Fetch the check-ins associated with the user and display them in a modal
      */
     async viewCheckins() {
         let visits = (await getFunc("GetCheckins", { userKey: this.key })).map(
